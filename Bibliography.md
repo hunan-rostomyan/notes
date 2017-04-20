@@ -1,3 +1,6 @@
+Albert, D.Z. (1992) *Quantum Mechanics and Experience*.
+- quantum mechanics; philosophy of quantum mechanics; philosophy of physics; philosophy of science
+
 Belnap, N.D. (1961) "Tonk, Plonk and Plink".
 - philosophical logic; philosophy of logic
 
@@ -26,6 +29,9 @@ Moschovakis, J. (2015) "Intuitionistic Logic".
 
 Landin, P.J. (1964) "The Mechanical Evaluation of Expressions".
 - SECD; virtual machines; functional programming languages; functional programming language implementations
+
+Paulos, J.A. (1991) *Beyond Numeracy: Ruminations of a Numbers Man*.
+- math education
 
 Peyton Jones, S. (1987) *The Implementation of Functional Programming Languages*.
 - functional programming; functional programming language implementation

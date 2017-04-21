@@ -7,6 +7,12 @@ Belnap, N.D. (1961) "Tonk, Plonk and Plink".
 Cardelli, L. (1983) "The Functional Abstract Machine".
 - FAM; virtual machines; functional programming languages; functional programming language implementations
 
+Cardelli, L. (1988) "A Semantics of Multiple Inheritance".
+- multiple inheritance; semantics of programming langauges
+
+Cardelli, L. (1989) "Typeful Programming".
+- types; subtyping; polymorphism; constructive logic
+
 Carnap, R. (1934/2002) *The Logical Syntax of Language*.
 - logic; philosophy
 

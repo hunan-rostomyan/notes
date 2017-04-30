@@ -27,6 +27,9 @@ Gentzen, G. (1935/1969) "Untersuchungen uber das logische Schließen".
 Harper, R. (2012) *Practical Foundations of Programming Languages*.
 - programming languages
 
+Harrison, J. (2009) *Handbook of Practical Logic and Automated Reasoning*.
+- logic; automated theorem proving
+
 Martin-Lof, P. (1996) "On the meanings of the logical constants andthe justifications of the logical laws".
 - constructive logic; intuitionism
 

@@ -24,6 +24,9 @@ Dummett, M. (1979) *Elements of Intuitionism*.
 Gentzen, G. (1935/1969) "Untersuchungen uber das logische Schließen".
 - natural deduction
 
+Gleick, J. (2012) *The Information: A History, A Theory, A Flood*.
+- information; history of information; history of science
+
 Harper, R. (2012) *Practical Foundations of Programming Languages*.
 - programming languages
 

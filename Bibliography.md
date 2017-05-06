@@ -27,6 +27,9 @@ Gentzen, G. (1935/1969) "Untersuchungen uber das logische Schließen".
 Gleick, J. (2012) *The Information: A History, A Theory, A Flood*.
 - information; history of information; history of science
 
+Harman, G., Kulkarni, S. (2007) *Reliable Reasoning: Induction and Statistical Learning Theory*.
+- epistemology; statistical learning theory; inductive inference
+
 Harper, R. (2012) *Practical Foundations of Programming Languages*.
 - programming languages
 

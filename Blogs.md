@@ -7,6 +7,9 @@
 [Krishan (From Data to Decisions)](https://iksinc.wordpress.com/)
 - machine learning
 
+[McCormick, Chris](http://mccormickml.com/)
+- machine learning
+
 [Olah, Christopher](http://colah.github.io/about.html)
 - machine learning
 

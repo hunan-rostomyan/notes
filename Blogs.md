@@ -1,18 +1,14 @@
-Britz, Denny
-- see [WildML]
+[Britz, Denny (WildML)](http://www.wildml.com)
+- machine learning; ai; deep learning; nlp
 
-Karpathy, Andrej
-- http://karpathy.github.io/
+[Karpathy, Andrej](http://karpathy.github.io)
 - machine learning; deep learning; nlp
 
-Olah, Christopher
-- http://colah.github.io/about.html
+[Krishan (From Data to Decisions)](https://iksinc.wordpress.com/)
 - machine learning
 
-Ruder, Sebastian
-- http://sebastianruder.com
-- machine learning; nlp; deep learning; startups
+[Olah, Christopher](http://colah.github.io/about.html)
+- machine learning
 
-WildML
-- http://www.wildml.com
-- machine learning; ai; deep learning; nlp
+[Ruder, Sebastian](http://sebastianruder.com)
+- machine learning; nlp; deep learning; startups

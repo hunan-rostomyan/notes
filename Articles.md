@@ -5,4 +5,7 @@ Karpathy, A. (2015) "[The Unreasonable Effectiveness of Recurrent Neural Network
 - rnn; neural networks; machine learning
 
 Krishan (2015) "[Words as Vectors](https://iksinc.wordpress.com/tag/continuous-bag-of-words-cbow/)"
-- word embeddings; nlp; cbow; skip-gram
+- word embeddings; word2vec; nlp; cbow; skip-gram
+
+McCormick, C. (2016) "[Word2Vec Tutorial - The Skip-Gram Model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)"
+- word2vec; word embeddings; nlp; skip-gram

@@ -2,7 +2,7 @@ Britz, Denny
 - see [WildML]
 
 Karpathy, Andrej
-http://karpathy.github.io/
+- http://karpathy.github.io/
 - machine learning; deep learning; nlp
 
 Olah, Christopher

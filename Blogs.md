@@ -10,6 +10,9 @@
 [McCormick, Chris](http://mccormickml.com/)
 - machine learning
 
+[Morgan (Metaflow AI)](https://blog.metaflow.fr/@morgangiraud)
+- machine learning; tensorflow
+
 [Olah, Christopher](http://colah.github.io/about.html)
 - machine learning
 

@@ -9,3 +9,6 @@ Krishan (2015) "[Words as Vectors](https://iksinc.wordpress.com/tag/continuous-b
 
 McCormick, C. (2016) "[Word2Vec Tutorial - The Skip-Gram Model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)"
 - word2vec; word embeddings; nlp; skip-gram
+
+Olah, C. (2015) "[Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)"
+- lstm; rnn; neural networks

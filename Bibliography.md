@@ -4,6 +4,9 @@ Albert, D.Z. (1992) *Quantum Mechanics and Experience*.
 Belnap, N.D. (1961) "Tonk, Plonk and Plink".
 - philosophical logic; philosophy of logic
 
+Bennett, J. (2014) *What Is Relativity?: An Intuitive Introduction to Einstein's Ideas, and Why They Matter*.
+- theory of relativity; popular science
+
 Cardelli, L. (1983) "The Functional Abstract Machine".
 - FAM; virtual machines; functional programming languages; functional programming language implementations
 
@@ -35,6 +38,9 @@ Harper, R. (2012) *Practical Foundations of Programming Languages*.
 
 Harrison, J. (2009) *Handbook of Practical Logic and Automated Reasoning*.
 - logic; automated theorem proving
+
+Hughes, R.I.G. (1989) *The Structure and Interpretation of Quantum Mechanics*.
+- quantum mechanics; philosophy of quantum mechanics; philosophy of physics; philosophy of science
 
 Martin-Lof, P. (1996) "On the meanings of the logical constants andthe justifications of the logical laws".
 - constructive logic; intuitionism

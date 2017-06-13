@@ -7,6 +7,9 @@ Belnap, N.D. (1961) "Tonk, Plonk and Plink".
 Bennett, J. (2014) *What Is Relativity?: An Intuitive Introduction to Einstein's Ideas, and Why They Matter*.
 - theory of relativity; popular science
 
+Bentley, J. (1999) *Programming Pearls*, 2nd Edition.
+- programming; algorithms; data structures
+
 Cardelli, L. (1983) "The Functional Abstract Machine".
 - FAM; virtual machines; functional programming languages; functional programming language implementations
 

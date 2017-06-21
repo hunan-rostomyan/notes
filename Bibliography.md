@@ -54,6 +54,9 @@ Lewin, W. (2012) *For the Love of Physics: From the End of the Rainbow to the Ed
 Martin-Lof, P. (1996) "On the meanings of the logical constants andthe justifications of the logical laws".
 - constructive logic; intuitionism
 
+McCann, C. (2017) *Letters to a Young Writer: Some Practical and Philosophical Advice*.
+- writing; writing advice; career advice
+
 Moschovakis, J. (2015) "Intuitionistic Logic".
 - constructive logic; intuitionism
 

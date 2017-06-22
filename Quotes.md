@@ -12,3 +12,8 @@
 
 - "The first principle is that you must not fool yourself — and you are the easiest person to fool."
   - being honest with yourself
+
+### Maslow
+
+- "I suppose it is tempting, if the only tool you have is a hammer, to treat everything as if it were a nail."
+  - problem solving; law of the instrument

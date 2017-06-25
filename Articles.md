@@ -1,6 +1,9 @@
 Austin, D. "[We Recommend a Singular Value Decomposition](http://www.ams.org/samplings/feature-column/fcarc-svd)". [Accessed May 9, 2017]
 - svd; linear algebra; dimensionality reduction
 
+Bolte, B. "[Deep Language Modeling for Question Answering using Keras](http://ben.bolte.cc/blog/2016/language.html)"
+- language modeling; deep learning; keras
+
 Karpathy, A. (2015) "[The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)"
 - rnn; neural networks; machine learning
 

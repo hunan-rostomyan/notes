@@ -48,6 +48,9 @@ Harrison, J. (2009) *Handbook of Practical Logic and Automated Reasoning*.
 Hughes, R.I.G. (1989) *The Structure and Interpretation of Quantum Mechanics*.
 - quantum mechanics; philosophy of quantum mechanics; philosophy of physics; philosophy of science
 
+Johnston, B.L., Richman, F. (1997) *Numbers and Symmetry: An Introduction to Algebra*.
+- abstract algebra; algebra; number theory; mathematics
+
 Lewin, W. (2012) *For the Love of Physics: From the End of the Rainbow to the Edge of Time - A Journey Through the Wonders of Physics*.
 - physics; science; popular science
 

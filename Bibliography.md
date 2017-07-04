@@ -99,5 +99,8 @@ Prior, A.N. (1960) "The Roundabout Inference-Ticket".
 Stevenson, J.T. (1961) "Roundabout the Roundabout Inference-ticket".
 - logic; philosophy; philosophical logic; philosophy of logic
 
+Stewart, I. (1995) *Concepts of Modern Mathematics*.
+- mathematics; popular mathematics
+
 Шень, А. (2007) *Программирование: теоремы и задачи*.
 - programming

@@ -18,6 +18,11 @@
 - "I suppose it is tempting, if the only tool you have is a hammer, to treat everything as if it were a nail."
   - problem solving; law of the instrument
 
+### Savvateev, A.
+
+- "That you've got questions is already good. It happens that you neither understand something nor can ask questions about what you don't understand. Sometimes you don't understand something but it's clear what you don't understand. This latter sort of stage is 90% of understanding. Because if you can formulate what you don't understand then I'll immediately explain."
+  - understanding; asking questions; higher-order knowledge
+
 ### Stewart, I.
 
 - "...logic is not all. No formula ever *suggested* anything on its own. Logic can be used to solve problems, but it canot suggest which problems to try. No one has ever formalized *significance*. To recognize what is significant you need a certain amount of experience, plus that elusive quality: *intuition*."

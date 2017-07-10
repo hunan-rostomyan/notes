@@ -102,5 +102,8 @@ Stevenson, J.T. (1961) "Roundabout the Roundabout Inference-ticket".
 Stewart, I. (1995) *Concepts of Modern Mathematics*.
 - mathematics; popular mathematics
 
+Аршинов, М.Н., Садовский, Л.Е. (2008) *Грани алгебры*.
+- algebra; mathematics
+
 Шень, А. (2007) *Программирование: теоремы и задачи*.
 - programming

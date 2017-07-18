@@ -1,6 +1,9 @@
 Austin, D. "[We Recommend a Singular Value Decomposition](http://www.ams.org/samplings/feature-column/fcarc-svd)". [Accessed May 9, 2017]
 - svd; linear algebra; dimensionality reduction
 
+Beskin, N.M. "Continued Fractions". [Kvant 1970, Volume 1]
+- continued fractions; mathematics
+
 Bolte, B. "[Deep Language Modeling for Question Answering using Keras](http://ben.bolte.cc/blog/2016/language.html)"
 - language modeling; deep learning; keras
 

@@ -13,6 +13,9 @@
 [Morgan (Metaflow AI)](https://blog.metaflow.fr/@morgangiraud)
 - machine learning; tensorflow
 
+[Morris, Colin](http://colinmorris.github.io/blog/)
+- machine learning; nlp
+
 [Olah, Christopher](http://colah.github.io/about.html)
 - machine learning
 

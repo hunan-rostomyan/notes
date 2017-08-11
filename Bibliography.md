@@ -36,6 +36,9 @@ Gentzen, G. (1935/1969) "Untersuchungen uber das logische Schließen".
 Gleick, J. (2012) *The Information: A History, A Theory, A Flood*.
 - popular science; information; history of information; history of science
 
+Halmos, P. (1942) *Finite-dimensional vector spaces*.
+- linear algebra; mathematics
+
 Harman, G., Kulkarni, S. (2007) *Reliable Reasoning: Induction and Statistical Learning Theory*.
 - epistemology; statistical learning theory; inductive inference
 

@@ -39,6 +39,9 @@ Gleick, J. (2012) *The Information: A History, A Theory, A Flood*.
 Halmos, P. (1942) *Finite-dimensional vector spaces*.
 - linear algebra; mathematics
 
+Halmos, P. (1960) *Naive set theory*.
+- set theory; mathematics
+
 Harman, G., Kulkarni, S. (2007) *Reliable Reasoning: Induction and Statistical Learning Theory*.
 - epistemology; statistical learning theory; inductive inference
 

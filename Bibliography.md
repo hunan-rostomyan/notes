@@ -1,6 +1,12 @@
 Albert, D.Z. (1992) *Quantum Mechanics and Experience*.
 - quantum mechanics; philosophy of quantum mechanics; philosophy of physics; philosophy of science
 
+Ash, A., Gross, R. (2006) *Fearless Symmetry: Exposing the Hidden Patterns of Numbers*.
+- abstract algebra; algebra; group theory; number theory; mathematics
+
+Ash, A., Gross, R. (2017) *Summing It Up: From One Plus One to Modern Number Theory*.
+- abstract algebra; algebra; number theory; mathematics
+
 Belnap, N.D. (1961) "Tonk, Plonk and Plink".
 - philosophical logic; philosophy of logic
 

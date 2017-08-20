@@ -43,6 +43,7 @@ Gleick, J. (2012) *The Information: A History, A Theory, A Flood*.
 - popular science; information; history of information; history of science
 
 Graham, R., Knuth, D., Patashnik, O. (1988) *Concrete Mathematics: A Foundation for Computer Science*.
+- concrete mathematics; discrete mathematics; mathematics for computer science; mathematics
 
 Halmos, P. (1942) *Finite-dimensional vector spaces*.
 - linear algebra; mathematics

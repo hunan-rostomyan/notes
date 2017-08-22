@@ -1,6 +1,10 @@
 #### Akliyan, Pertsh
 - friend; mentor; mathematician
 
+#### Cardelli, Luca
+- computer scientist
+- for his papers on types and programming languages
+
 #### Carnap, Rudolf
 - philosopher of language and science; logician
 

@@ -1,3 +1,6 @@
+Abadi, M. et al. (2017) "A Computational Model for TensorFlow. An Introduction".
+- TensorFlow; TensorFlow semantics; operational semantics
+
 Austin, D. "[We Recommend a Singular Value Decomposition](http://www.ams.org/samplings/feature-column/fcarc-svd)". [Accessed May 9, 2017]
 - svd; linear algebra; dimensionality reduction
 

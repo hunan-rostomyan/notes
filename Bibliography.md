@@ -63,6 +63,9 @@ Harper, R. (2012) *Practical Foundations of Programming Languages*.
 Harrison, J. (2009) *Handbook of Practical Logic and Automated Reasoning*.
 - logic; automated theorem proving
 
+Henle, M. (1994) *A Combinatorial Introduction to Topology*.
+- topology; algebraic topology
+
 Hughes, R.I.G. (1989) *The Structure and Interpretation of Quantum Mechanics*.
 - quantum mechanics; philosophy of quantum mechanics; philosophy of physics; philosophy of science
 

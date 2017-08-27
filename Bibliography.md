@@ -117,6 +117,12 @@ Prawitz, D. (2005) "Logical Consequence From a Constructivist Point of View".
 Prior, A.N. (1960) "The Roundabout Inference-Ticket".
 - logic; philosophical logic; philosophy of logic
 
+Soifer, A. (2009) *Mathematics as problem solving*, 2nd edition.
+- mathematics; problem solving
+
+Soifer, A. (2009) *How does one cut a triangle?*, 2nd edition.
+- mathematics; problem book
+
 Stevenson, J.T. (1961) "Roundabout the Roundabout Inference-ticket".
 - logic; philosophy; philosophical logic; philosophy of logic
 

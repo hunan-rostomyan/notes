@@ -137,8 +137,8 @@ Stewart, I. (2006) *Letters to a Young Mathematician*.
 
 ### Russian
 
-Аршинов, М.Н., Садовский, Л.Е. (2008) *Грани алгебры*.
+Arshinov, M.N., Sadovski, L.E. (2008) *Limits of algebra*.
 - algebra; mathematics
 
-Шень, А. (2007) *Программирование: теоремы и задачи*.
+Shen, A. (2007) *Programming: theorems and problems*.
 - programming

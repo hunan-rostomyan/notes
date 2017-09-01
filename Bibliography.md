@@ -36,6 +36,9 @@ Dummett, M. (1976) "The Logical Basis of Metaphysics".
 Dummett, M. (1979) *Elements of Intuitionism*.
 - intuitionism
 
+Feller, W. (1950) *An introduction to probability theory and its applications*.
+- probability theory
+
 Gentzen, G. (1935/1969) "Untersuchungen uber das logische Schließen".
 - natural deduction
 

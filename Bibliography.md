@@ -39,6 +39,9 @@ Dummett, M. (1979) *Elements of Intuitionism*.
 Feller, W. (1950) *An introduction to probability theory and its applications*.
 - probability theory
 
+Gardiner, A. (1987) *Discovering Mathematics: The Art of Investigation*.
+- mathematics; problem solving
+
 Gentzen, G. (1935/1969) "Untersuchungen uber das logische Schließen".
 - natural deduction
 

@@ -19,6 +19,9 @@ Bentley, J. (1984) "Algorithm Design Techniques".
 Bentley, J. (1999) *Programming Pearls*, 2nd Edition.
 - programming; algorithms; data structures
 
+Bona, M. (2006) *A Walk Through Combinatorics. An Introduction to Enumeration and Graph Theory*, 2nd Edition.
+- combinatorics; graph theory; mathematics
+
 Cardelli, L. (1983) "The Functional Abstract Machine".
 - FAM; virtual machines; functional programming languages; functional programming language implementations
 

@@ -4,6 +4,9 @@ Albert, D.Z. (1992) *Quantum Mechanics and Experience*.
 Ash, A., Gross, R. (2006) *Fearless Symmetry: Exposing the Hidden Patterns of Numbers*.
 - abstract algebra; algebra; group theory; number theory; mathematics
 
+Ash, A., Gross, R. (2012) *Elliptic Tales: Curves, Counting, and Number Theory*.
+- number theory; mathematics
+
 Ash, A., Gross, R. (2017) *Summing It Up: From One Plus One to Modern Number Theory*.
 - abstract algebra; algebra; number theory; mathematics
 

@@ -45,6 +45,9 @@ Dummett, M. (1979) *Elements of Intuitionism*.
 Feller, W. (1950) *An introduction to probability theory and its applications*.
 - probability theory
 
+Fejer, P.A., Simovici, D.A. (1990) *Mathematical foundations of computer science. Volume 1: sets, relations, and induction*.
+- induction; mathematics; computer science
+
 Gardiner, A. (1987) *Discovering Mathematics: The Art of Investigation*.
 - mathematics; problem solving
 

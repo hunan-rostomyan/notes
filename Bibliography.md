@@ -57,6 +57,9 @@ Gentzen, G. (1935/1969) "Untersuchungen uber das logische Schließen".
 Gleick, J. (2012) *The Information: A History, A Theory, A Flood*.
 - popular science; information; history of information; history of science
 
+Goodfellow, I., Bengio, J., Courville, A. (2016) *Deep Learning*.
+- deep learning; neural networks; machine learning
+
 Graham, R., Knuth, D., Patashnik, O. (1988) *Concrete Mathematics: A Foundation for Computer Science*.
 - concrete mathematics; discrete mathematics; mathematics for computer science; mathematics
 

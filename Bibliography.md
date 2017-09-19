@@ -158,5 +158,8 @@ Stewart, I. (2006) *Letters to a Young Mathematician*.
 Arshinov, M.N., Sadovski, L.E. (2008) *Limits of algebra*.
 - algebra; mathematics
 
+Chekhov, A. (1896) "The house with a mezzanine".
+- short story; literature
+
 Shen, A. (2007) *Programming: theorems and problems*.
 - programming

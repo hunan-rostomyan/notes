@@ -54,6 +54,9 @@ Gardiner, A. (1987) *Discovering Mathematics: The Art of Investigation*.
 Gentzen, G. (1935/1969) "Untersuchungen uber das logische Schließen".
 - natural deduction
 
+Gessen, M. (2009) *Perfect Rigor: A Genius and the Mathematical Breakthrough of the Century*.
+- Perelman; Poincare Conjecture; geometrization conjecture; biography; popular mathematics
+
 Gleick, J. (2012) *The Information: A History, A Theory, A Flood*.
 - popular science; information; history of information; history of science
 

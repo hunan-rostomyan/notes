@@ -93,6 +93,9 @@ Hughes, R.I.G. (1989) *The Structure and Interpretation of Quantum Mechanics*.
 Johnston, B.L., Richman, F. (1997) *Numbers and Symmetry: An Introduction to Algebra*.
 - abstract algebra; algebra; number theory; mathematics
 
+Kac, M., Ulam, S.M. (1992) *Mathematics and Logic*.
+- mathematics; popular mathematics
+
 Kulkarni, S., Harman, G. (2011) *An Elementary Introduction to Statistical Learning Theory*.
 - statistical learning theory; machine learning
 

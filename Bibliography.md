@@ -159,6 +159,9 @@ Stewart, I. (1995) *Concepts of Modern Mathematics*.
 Stewart, I. (2006) *Letters to a Young Mathematician*.
 - popular mathematics; career advice
 
+Woolf, V. (1929) *A Room of One's Own*.
+- essay; literature; life
+
 ### Russian
 
 Arshinov, M.N., Sadovski, L.E. (2008) *Limits of algebra*.

@@ -42,6 +42,9 @@ Dummett, M. (1976) "The Logical Basis of Metaphysics".
 Dummett, M. (1979) *Elements of Intuitionism*.
 - intuitionism
 
+Dunham, W. (1994) *The Mathematical Universe*.
+- mathematics; popular mathematics; history of mathematics
+
 Feller, W. (1950) *An introduction to probability theory and its applications*.
 - probability theory
 

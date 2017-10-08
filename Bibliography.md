@@ -48,6 +48,9 @@ Dunham, W. (1990) *Journey Through Genius*.
 Dunham, W. (1994) *The Mathematical Universe*.
 - mathematics; popular mathematics; history of mathematics
 
+Dunham, W. (2000) *Euler: The Master of Us All*.
+- mathematical biography; mathematics; history of mathematics; biography
+
 Feller, W. (1950) *An introduction to probability theory and its applications*.
 - probability theory
 

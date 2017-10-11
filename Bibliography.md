@@ -173,6 +173,9 @@ Woolf, V. (1929) *A Room of One's Own*.
 
 ### Russian
 
+Alekseev, V.B. (2001) *Abel's Theorem in Problems and Solutions*.
+- Abel-Ruffini theorem; algebra; topology; geometry; mathematics
+
 Arshinov, M.N., Sadovski, L.E. (2008) *Limits of algebra*.
 - algebra; mathematics
 

@@ -184,3 +184,6 @@ Chekhov, A. (1896) "The house with a mezzanine".
 
 Shen, A. (2007) *Programming: theorems and problems*.
 - programming
+
+Yaglom, A.M., Yaglom, I.M. (1957) *Probability and Information*.
+- probability theory; information theory; mathematics

@@ -168,6 +168,9 @@ Stewart, I. (1995) *Concepts of Modern Mathematics*.
 Stewart, I. (2006) *Letters to a Young Mathematician*.
 - popular mathematics; career advice
 
+Tao, T. (2006) *Analysis I-II*.
+- mathematical analysis; calculus; mathematics
+
 Woolf, V. (1929) *A Room of One's Own*.
 - essay; literature; life
 

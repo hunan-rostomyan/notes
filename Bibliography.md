@@ -105,6 +105,9 @@ Johnston, B.L., Richman, F. (1997) *Numbers and Symmetry: An Introduction to Alg
 Kac, M., Ulam, S.M. (1992) *Mathematics and Logic*.
 - mathematics; popular mathematics
 
+Keisler, H.J. (2000, 2017) *Elementary Calculus: An Infinitesimal Approach*.
+- calculus; analysis; non-standard analysis; model theory; mathematics
+
 Kulkarni, S., Harman, G. (2011) *An Elementary Introduction to Statistical Learning Theory*.
 - statistical learning theory; machine learning
 

@@ -188,8 +188,17 @@ Arshinov, M.N., Sadovski, L.E. (2008) *Limits of algebra*.
 Chekhov, A. (1896) "The house with a mezzanine".
 - short story; literature
 
+Shen, A. (2000) *Mathematics problems: offered to students of school no. 57*.
+- mathematics; problems
+
+Shen, A. (2005) *Mathematical induction*.
+- mathematical induction; problem solving; mathematics
+
 Shen, A. (2007) *Programming: theorems and problems*.
 - programming
+
+Shen, A. (2013) *Geometry in problems*.
+- geometry; mathematics
 
 Yaglom, A.M., Yaglom, I.M. (1957) *Probability and Information*.
 - probability theory; information theory; mathematics

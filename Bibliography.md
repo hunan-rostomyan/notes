@@ -132,7 +132,7 @@ Mukherjee, S. (2016) *The Gene: An Intimate History*.
 Nielsen, M. (2011) *Reinventing Discovery: The New Era of Networked Science*.
 - popular science; scientific discovery; science culture
 
-Niven, I. (1961) *Numbers: Rational and Rrrational*.
+Niven, I. (1961) *Numbers: Rational and Irrational*.
 - number systems; analysis; number theory; mathematics
 
 Landin, P.J. (1964) "The Mechanical Evaluation of Expressions".

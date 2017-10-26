@@ -188,6 +188,9 @@ Alekseev, V.B. (2001) *Abel's Theorem in Problems and Solutions*.
 Arshinov, M.N., Sadovski, L.E. (2008) *Limits of algebra*.
 - algebra; mathematics
 
+Brusin, V.A. (1999) Numbers as operators.
+- number systems; arithmetic; algebra; mathematics
+
 Chekhov, A. (1896) "The house with a mezzanine".
 - short story; literature
 

@@ -203,7 +203,7 @@ Shen, A. (2005) *Mathematical induction*.
 Shen, A. (2007) *Programming: theorems and problems*.
 - programming
 
-Shen (2008) *Probability. Examples and Problems*.
+Shen, A. (2008) *Probability. Examples and Problems*.
 - probability theory; mathematics
 
 Shen, A. (2013) *Geometry in problems*.

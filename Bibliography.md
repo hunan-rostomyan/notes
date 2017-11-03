@@ -177,6 +177,9 @@ Stewart, I. (2006) *Letters to a Young Mathematician*.
 Tao, T. (2006) *Analysis I-II*.
 - mathematical analysis; calculus; mathematics
 
+Vapnik, V. (1995) *The Nature of Statistical Learning Theory*.
+- statistical learning theory; machine learning
+
 Woolf, V. (1929) *A Room of One's Own*.
 - essay; literature; life
 

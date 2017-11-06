@@ -37,6 +37,9 @@ Cardelli, L. (1989) "Typeful Programming".
 Carnap, R. (1934/2002) *The Logical Syntax of Language*.
 - logic; philosophy
 
+Dasgupta, S., Papadimitriou, C., Vazirani U. (2006) *Algorithms*.
+- algorithms
+
 Dummett, M. (1976) "The Logical Basis of Metaphysics".
 
 Dummett, M. (1979) *Elements of Intuitionism*.

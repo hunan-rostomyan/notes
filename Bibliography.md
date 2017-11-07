@@ -186,6 +186,9 @@ Vapnik, V. (1995) *The Nature of Statistical Learning Theory*.
 Woolf, V. (1929) *A Room of One's Own*.
 - essay; literature; life
 
+Zaydel, A.N. (1990) "Delusion or Fraud?", Quantum, September/October, pp. 6-9.
+- Buffon experiment; pi; approximation of pi; error; estimation; probability; mathematics
+
 ### Russian
 
 Alekseev, V.B. (2001) *Abel's Theorem in Problems and Solutions*.

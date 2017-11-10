@@ -123,6 +123,9 @@ Martin-Lof, P. (1996) "On the meanings of the logical constants andthe justifica
 McCann, C. (2017) *Letters to a Young Writer: Some Practical and Philosophical Advice*.
 - writing; writing advice; career advice
 
+Mishchenko, A., Solovyov, Y. (2000) "Quaternions", Quantum, Volume 11, Number 1, p.4-7,18.
+- complex numbers; quaternions; numbers; mathematics
+
 Moschovakis, J. (2015) "Intuitionistic Logic".
 - constructive logic; intuitionism
 

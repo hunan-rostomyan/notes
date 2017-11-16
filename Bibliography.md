@@ -87,6 +87,9 @@ Halmos, P. (1960) *Naive set theory*.
 Halmos, P. (1995) *Linear Algebra Problem Book*.
 - linear algebra; problem book; mathematics
 
+Halmos, P., Givant, S. (1998) *Logic as Algebra*.
+- logic; mathematics
+
 Harman, G., Kulkarni, S. (2007) *Reliable Reasoning: Induction and Statistical Learning Theory*.
 - epistemology; statistical learning theory; inductive inference
 

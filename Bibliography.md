@@ -212,6 +212,9 @@ Brusin, V.A. (1999) Numbers as operators.
 Chekhov, A. (1896) "The house with a mezzanine".
 - short story; literature
 
+Gindikin, S.G. (2001) *Stories about Physicists and Mathematicians*.
+- physics; mathematics; biography; history of mathematics; history of science
+
 Lidovski, V.V. (2004) *Theory of Information*.
 - information theory; probability; mathematics
 

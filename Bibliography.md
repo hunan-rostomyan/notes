@@ -236,5 +236,8 @@ Shen, A. (2008) *Probability. Examples and Problems*.
 Shen, A. (2013) *Geometry in problems*.
 - geometry; mathematics
 
+Spivak, A.V. (2005) *Numbers and Figures*.
+- encyclopedia; mathematics
+
 Yaglom, A.M., Yaglom, I.M. (1957) *Probability and Information*.
 - probability theory; information theory; mathematics

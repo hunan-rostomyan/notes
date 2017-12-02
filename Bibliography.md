@@ -203,6 +203,9 @@ Zaydel, A.N. (1990) "Delusion or Fraud?", Quantum, September/October, pp. 6-9.
 Alekseev, V.B. (2001) *Abel's Theorem in Problems and Solutions*.
 - Abel-Ruffini theorem; algebra; topology; geometry; mathematics
 
+Alexandrov, P.S. (1980) *Introduction to Group Theory*.
+- group theory; algebra; mathematics
+
 Arnold, V.I. (2002) *Geometry of complex numbers, quaternions, and spins*.
 - complex numbers; geometry; mathematics
 

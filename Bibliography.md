@@ -239,8 +239,14 @@ Shen, A. (2008) *Probability. Examples and Problems*.
 Shen, A. (2013) *Geometry in problems*.
 - geometry; mathematics
 
+Shen, A., Vereshchagin, N.K. (2002) *Basic Set Theory*.
+- set theory; mathematics
+
 Spivak, A.V. (2005) *Numbers and Figures*.
 - encyclopedia; mathematics
+
+Vereshchagin, N.K., Shen. A. (2003) *Computable Functions*.
+- computability theory; recursion theory; logic; mathematics
 
 Yaglom, A.M., Yaglom, I.M. (1957) *Probability and Information*.
 - probability theory; information theory; mathematics

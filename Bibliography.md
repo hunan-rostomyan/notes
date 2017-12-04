@@ -209,6 +209,9 @@ Alexandrov, P.S. (1980) *Introduction to Group Theory*.
 Arnold, V.I. (2002) *Geometry of complex numbers, quaternions, and spins*.
 - complex numbers; geometry; mathematics
 
+Arnold, V.I. (2008) *What is mathematics?*
+- mathematics; meta-mathematics; essays
+
 Arshinov, M.N., Sadovski, L.E. (2008) *Limits of algebra*.
 - algebra; mathematics
 

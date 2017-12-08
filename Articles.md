@@ -10,6 +10,9 @@ Beskin, N.M. "Continued Fractions". [Kvant 1970, Volume 1]
 Bolte, B. "[Deep Language Modeling for Question Answering using Keras](http://ben.bolte.cc/blog/2016/language.html)"
 - language modeling; deep learning; keras
 
+Gal, Y. "[Uncertainty in Deep Learning (PhD Thesis)](http://www.cs.ox.ac.uk/people/yarin.gal/website/blog_2248.html#thesis)
+- deep learning; machine learning; statistics; dissertation
+
 Karpathy, A. (2015) "[The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)"
 - rnn; neural networks; machine learning
 

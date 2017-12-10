@@ -177,6 +177,12 @@ Soifer, A. (2009) *Mathematics as problem solving*, 2nd edition.
 Soifer, A. (2009) *How does one cut a triangle?*, 2nd edition.
 - mathematics; problem book
 
+Steinhaus, H. (1938) *Mathematical Snapshots*.
+- popular mathematics; recreational mathematics; mathematis
+
+Steinhaus, H. (1963) *One Hundred Problems in Elementary Mathematics*.
+- mathematics; problem book
+
 Stevenson, J.T. (1961) "Roundabout the Roundabout Inference-ticket".
 - logic; philosophy; philosophical logic; philosophy of logic
 

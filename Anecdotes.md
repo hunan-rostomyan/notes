@@ -1,3 +1,8 @@
+### Euler
+
+- "Euler said that in his books he would intentionally make typos to make the text more interesting for the reader. I remember when I was your age I'd sometimes spend several hours trying to figure out whether it's something I'm not understanding or it's an intentional typo"
+  - attributed to Euler by Nikolai Vorontsov, Higher Algebra (Lektorium, 2015), Lecture 2
+
 ### Stewart, I.
 
 - "A certain theoretical physicist secured himself a mighty reputation on the basis of his deduction,

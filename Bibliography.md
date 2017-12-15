@@ -102,6 +102,9 @@ Harper, R. (2012) *Practical Foundations of Programming Languages*.
 Harrison, J. (2009) *Handbook of Practical Logic and Automated Reasoning*.
 - logic; automated theorem proving
 
+Helson, H. (1981) *Analysis and Linear Algebra*. Pilot edition.
+- calculus; linear algebra
+
 Henle, M. (1994) *A Combinatorial Introduction to Topology*.
 - topology; algebraic topology
 

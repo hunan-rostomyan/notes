@@ -201,6 +201,12 @@ Tao, T. (2006) *Analysis I-II*.
 Vapnik, V. (1995) *The Nature of Statistical Learning Theory*.
 - statistical learning theory; machine learning
 
+Wasserman, L. (2004) *All of Statistics*.
+- statistical inference; statistics; mathematics
+
+Wasserman, L. (2005) *All of Nonparametric Statistics*.
+- non-parametric inference; statistics; mathematics
+
 Woolf, V. (1929) *A Room of One's Own*.
 - essay; literature; life
 

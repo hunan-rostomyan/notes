@@ -17,3 +17,8 @@ Renz, P. (2009) *I Want to Be a Mathematician*.
 (2011) *Иноходец. Урок Перельмана*
 - youtube [(Russian)](https://www.youtube.com/watch?v=wqpNb86wX9A) [(English)](https://www.youtube.com/watch?v=Ng1W2KUHI2s&t=893s)
 - Perelman; Poincare Conjecture; mathematics
+
+### Ted talks
+
+Rosling, H. (2006) ["The Best Stats You've Ever Seen"](https://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen)
+- ted; statistics; mathematics

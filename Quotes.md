@@ -1,3 +1,9 @@
+### Arnold
+
+- "In my view, mathematics and physics are parts of the same experimental science. When the experiments cost billions of dollars we call this science physics. When they are cheap, we call it mathematics. Furthermore, mathematics is a unified whole that must not be divided into algebra, geometry, etc."
+  - unity of mathematics; experiments and mathematics
+  - *Lectures and Problems*, p. 4
+
 ### Coelho
 
 - "The world is changed by your example, not by your opinion."

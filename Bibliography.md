@@ -60,6 +60,9 @@ Feller, W. (1950) *An introduction to probability theory and its applications*.
 Fejer, P.A., Simovici, D.A. (1990) *Mathematical foundations of computer science. Volume 1: sets, relations, and induction*.
 - induction; mathematics; computer science
 
+Friedman, J.H., Tibshirani, R., Hastie, T. (2001) *The Elements of Statistical Learning*.
+- statistical learning theory; machine learning
+
 Gardiner, A. (1987) *Discovering Mathematics: The Art of Investigation*.
 - mathematics; problem solving
 

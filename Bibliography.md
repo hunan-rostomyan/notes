@@ -54,6 +54,9 @@ Dunham, W. (1994) *The Mathematical Universe*.
 Dunham, W. (2000) *Euler: The Master of Us All*.
 - mathematical biography; mathematics; history of mathematics; biography
 
+Dunham, W. (2005) *The Calculus Gallery*.
+- calculus; mathematics; history of mathematics
+
 Feller, W. (1950) *An introduction to probability theory and its applications*.
 - probability theory
 

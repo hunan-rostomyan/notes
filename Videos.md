@@ -1,5 +1,11 @@
 ### Documentaries
 
+#### Dyson
+
+*Freeman Dyson. Scientist*
+- [web of stories](https://www.webofstories.com/play/freeman.dyson/1)
+- Dyson; mathematics; physics
+
 #### Erdos
 
 (1993) *N Is a Number: A Portrait of Paul Erdös*.

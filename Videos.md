@@ -1,11 +1,5 @@
 ### Documentaries
 
-#### Dyson
-
-*Freeman Dyson. Scientist*
-- [web of stories](https://www.webofstories.com/play/freeman.dyson/1)
-- Dyson; mathematics; physics
-
 #### Erdos
 
 (1993) *N Is a Number: A Portrait of Paul Erdös*.
@@ -23,6 +17,19 @@ Renz, P. (2009) *I Want to Be a Mathematician*.
 (2011) *Иноходец. Урок Перельмана*
 - youtube [(Russian)](https://www.youtube.com/watch?v=wqpNb86wX9A) [(English)](https://www.youtube.com/watch?v=Ng1W2KUHI2s&t=893s)
 - Perelman; Poincare Conjecture; mathematics
+
+### Interviews
+
+### Dyakonov
+
+- youtube [(Russian)](https://www.youtube.com/watch?v=qV3yjIyj7Dc)
+- Dyakonov; machine learning
+
+#### Dyson
+
+*Freeman Dyson. Scientist*
+- [web of stories](https://www.webofstories.com/play/freeman.dyson/1)
+- Dyson; mathematics; physics
 
 ### Ted talks
 

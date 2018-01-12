@@ -20,10 +20,15 @@ Renz, P. (2009) *I Want to Be a Mathematician*.
 
 ### Interviews
 
-### Dyakonov
+#### Dyakonov
 
 - youtube [(Russian)](https://www.youtube.com/watch?v=qV3yjIyj7Dc)
 - Dyakonov; machine learning
+
+#### Vorontsov
+
+- youtube [(Russian)](https://www.youtube.com/watch?v=DR3mgnEKRgI)
+- Vorontsov; machine learning; life
 
 #### Dyson
 

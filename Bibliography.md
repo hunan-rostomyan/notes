@@ -274,3 +274,6 @@ Vereshchagin, N.K., Shen. A. (2003) *Computable Functions*.
 
 Yaglom, A.M., Yaglom, I.M. (1957) *Probability and Information*.
 - probability theory; information theory; mathematics
+
+Zagoruiko, N.G. (1999) *Applied methods of data and knowledge analysis*.
+- machine learning; data analysis; applied mathematics

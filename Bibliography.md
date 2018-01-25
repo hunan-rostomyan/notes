@@ -16,6 +16,13 @@ Belnap, N.D. (1961) "Tonk, Plonk and Plink".
 Bennett, J. (2014) *What Is Relativity?: An Intuitive Introduction to Einstein's Ideas, and Why They Matter*.
 - theory of relativity; popular science
 
+Benthem, J.F.A.K. Van (2010) *Modal Logic for Open Minds*.
+- modal logic; logic
+
+Benthem, J.F.A.K Van (2012) Logic in Action.
+- logic; web book
+- http://www.logicinaction.org
+
 Bentley, J. (1984) "Algorithm Design Techniques".
 - programming; algorithms; kadane's algorithm; maximum contiguous subarray problem
 
@@ -36,6 +43,9 @@ Cardelli, L. (1989) "Typeful Programming".
 
 Carnap, R. (1934/2002) *The Logical Syntax of Language*.
 - logic; philosophy
+
+Chomsky, N. (1957) *Syntactic Structures*.
+- syntax; grammar; linguistics
 
 Dasgupta, S., Papadimitriou, C., Vazirani U. (2006) *Algorithms*.
 - algorithms

@@ -163,6 +163,9 @@ Mukherjee, S. (2016) *The Gene: An Intimate History*.
 Nielsen, M. (2011) *Reinventing Discovery: The New Era of Networked Science*.
 - popular science; scientific discovery; science culture
 
+Nielsen, M. (2015) *Neural Networks and Deep Learning*.
+- deep learning; neural networks; machine learning
+
 Niven, I. (1961) *Numbers: Rational and Irrational*.
 - number systems; analysis; number theory; mathematics
 

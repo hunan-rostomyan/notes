@@ -160,6 +160,9 @@ Mukherjee, S. (2010) *The Emperor of All Maladies: A Biography of Cancer*.
 Mukherjee, S. (2016) *The Gene: An Intimate History*.
 - popular science; genetics; dna
 
+Naumann, U. (2012) *The Art of Differentiating Computer Programs*.
+- automatic differentiation; algorithmic differentiation; autodiff
+
 Nielsen, M. (2011) *Reinventing Discovery: The New Era of Networked Science*.
 - popular science; scientific discovery; science culture
 

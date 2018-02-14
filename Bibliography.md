@@ -178,6 +178,9 @@ Landin, P.J. (1964) "The Mechanical Evaluation of Expressions".
 Paulos, J.A. (1991) *Beyond Numeracy: Ruminations of a Numbers Man*.
 - math education
 
+Paulson, L.C. (1996) *ML for the Working Programmer*, 2nd edition.
+- ml; functional programming; programming
+
 Peyton Jones, S. (1987) *The Implementation of Functional Programming Languages*.
 - functional programming; functional programming language implementation
 

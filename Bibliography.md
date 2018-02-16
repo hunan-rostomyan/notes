@@ -199,6 +199,9 @@ Prawitz, D. (2005) "Logical Consequence From a Constructivist Point of View".
 Prior, A.N. (1960) "The Roundabout Inference-Ticket".
 - logic; philosophical logic; philosophy of logic
 
+Roberts, S. (2015) *Genius At Play: The Curious Mind of John Horton Conway*.
+- conway; mathematical biography; biography
+
 Snaith, V.P. (1998) *Groups, Rings and Galois Theory*.
 - groups; rings; galois theory; abstract algebra; algebra; mathematics
 

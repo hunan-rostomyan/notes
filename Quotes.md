@@ -9,6 +9,12 @@
 - "The world is changed by your example, not by your opinion."
   - teaching by example
 
+### Conway
+
+- "Let's do some mathematics. All good mathematics starts with the word "let": Let 0 + 0 = z."
+  - mathematical reasoning; assumptions
+  - *Genius at Play: The Curious Mind of John Horton Conway*, p. 136
+
 ### Descartes
 
 - "You just keep pushing. You just keep pushing. I made every mistake that could be made. But I just kept pushing."

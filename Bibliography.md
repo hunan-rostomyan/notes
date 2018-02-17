@@ -200,7 +200,7 @@ Prior, A.N. (1960) "The Roundabout Inference-Ticket".
 - logic; philosophical logic; philosophy of logic
 
 Roberts, S. (2015) *Genius At Play: The Curious Mind of John Horton Conway*.
-- conway; mathematical biography; biography
+- conway; game of life; biography; history; mathematics
 
 Snaith, V.P. (1998) *Groups, Rings and Galois Theory*.
 - groups; rings; galois theory; abstract algebra; algebra; mathematics
@@ -210,6 +210,9 @@ Soifer, A. (2009) *Mathematics as problem solving*, 2nd edition.
 
 Soifer, A. (2009) *How does one cut a triangle?*, 2nd edition.
 - mathematics; problem book
+
+Soni, J., Goodman, R. (2017) *A Mind at Play: How Claude Shannon Invented the Information Age*.
+- shannon; biography; mathematics; history
 
 Steinhaus, H. (1938) *Mathematical Snapshots*.
 - popular mathematics; recreational mathematics; mathematis

@@ -279,6 +279,9 @@ Gindikin, S.G. (2001) *Stories about Physicists and Mathematicians*.
 Lidovski, V.V. (2004) *Theory of Information*.
 - information theory; probability; mathematics
 
+Lipski, V. (1988) *Combinatorics for Programmers*.
+- combinatorics; discrete mathematics; mathematics
+
 Shen, A. (2000) *Mathematics problems: offered to students of school no. 57*.
 - mathematics; problems
 

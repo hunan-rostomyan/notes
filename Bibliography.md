@@ -127,6 +127,9 @@ Henle, M. (1994) *A Combinatorial Introduction to Topology*.
 Hughes, R.I.G. (1989) *The Structure and Interpretation of Quantum Mechanics*.
 - quantum mechanics; philosophy of quantum mechanics; philosophy of physics; philosophy of science
 
+Hugo, R. (1979) *The Triggering Town*
+- poetry; writing; writing advice
+
 Johnston, B.L., Richman, F. (1997) *Numbers and Symmetry: An Introduction to Algebra*.
 - abstract algebra; algebra; number theory; mathematics
 

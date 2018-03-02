@@ -29,6 +29,9 @@ Bentley, J. (1984) "Algorithm Design Techniques".
 Bentley, J. (1999) *Programming Pearls*, 2nd Edition.
 - programming; algorithms; data structures
 
+Bertsekas, D. P. (2015) *Convex Optimization Algorithms*
+- convex optimization; optimization; mathematics
+
 Bona, M. (2006) *A Walk Through Combinatorics. An Introduction to Enumeration and Graph Theory*, 2nd Edition.
 - combinatorics; graph theory; mathematics
 

@@ -178,6 +178,9 @@ Nielsen, M. (2015) *Neural Networks and Deep Learning*.
 Niven, I. (1961) *Numbers: Rational and Irrational*.
 - number systems; analysis; number theory; mathematics
 
+Nocedal, J., Wright, S.J. (2006) *Numerical Optimization*, 2nd Edition.
+- numerical optimization; mathematical optimization; mathematics; computer science
+
 Landin, P.J. (1964) "The Mechanical Evaluation of Expressions".
 - SECD; virtual machines; functional programming languages; functional programming language implementations
 

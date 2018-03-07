@@ -15,6 +15,16 @@
   - mathematical reasoning; assumptions
   - *Genius at Play: The Curious Mind of John Horton Conway*, p. 136
 
+### Cormack
+
+- "Try to do every problem and exercise, don't just read them and think you get it. Lots of people that want to program will talk a lot about programming, but not actually write that many programs. You should write hundreds of programs"
+  - programming; practice; advice
+  - [source](https://goo.gl/qbHPGd)
+
+- "Avoid "cookbook programming", where you copy and paste bits of code that you have found to make something work. Make sure you fully understand what everything it actually doing, and that you are comfortable applying the techniques in other situations."
+  - copy-paste-programming; programming; understanding; advice
+  - [source](https://goo.gl/qbHPGd)
+
 ### Descartes
 
 - "You just keep pushing. You just keep pushing. I made every mistake that could be made. But I just kept pushing."

@@ -53,7 +53,11 @@ Chomsky, N. (1957) *Syntactic Structures*.
 Dasgupta, S., Papadimitriou, C., Vazirani U. (2006) *Algorithms*.
 - algorithms
 
+Dewdney, A. (1989) *The New Turing Omnibus*.
+- computer science; algorithms
+
 Dummett, M. (1976) "The Logical Basis of Metaphysics".
+- metaphysics; philosophy
 
 Dummett, M. (1979) *Elements of Intuitionism*.
 - intuitionism

@@ -74,6 +74,9 @@ Dunham, W. (2000) *Euler: The Master of Us All*.
 Dunham, W. (2005) *The Calculus Gallery*.
 - calculus; mathematics; history of mathematics
 
+Felleisen, M., Flatt, M. (2006) *Programming Languages and Lambda Calculi*
+- programming language design; lambda calculus
+
 Feller, W. (1950) *An introduction to probability theory and its applications*.
 - probability theory
 

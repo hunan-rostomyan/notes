@@ -173,6 +173,9 @@ Mukherjee, S. (2010) *The Emperor of All Maladies: A Biography of Cancer*.
 Mukherjee, S. (2016) *The Gene: An Intimate History*.
 - popular science; genetics; dna
 
+Nasar, S. (1998) *A Beautiful Mind*.
+- nash; biography; mathematics; science
+
 Naumann, U. (2012) *The Art of Differentiating Computer Programs*.
 - automatic differentiation; algorithmic differentiation; autodiff
 

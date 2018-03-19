@@ -47,6 +47,9 @@ Cardelli, L. (1989) "Typeful Programming".
 Carnap, R. (1934/2002) *The Logical Syntax of Language*.
 - logic; philosophy
 
+Carnap, R., Gardner, M. (ed) (1995) *An Introduction to the Philosophy of Science*.
+- philosophy of science; philosophy of physics; philosophy
+
 Chomsky, N. (1957) *Syntactic Structures*.
 - syntax; grammar; linguistics
 

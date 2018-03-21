@@ -42,6 +42,16 @@ BBC Horizon (2016) Fermat's Last Theorem
 - [web of stories](https://www.webofstories.com/play/freeman.dyson/1)
 - Dyson; mathematics; physics
 
+#### Raigorodsky
+
+- youtube [(Russian)](https://www.youtube.com/watch?v=jBcPE9UHl_I)
+- Raigorodsky; combinatorics; mathematics; MIPT
+
+#### Savvateev
+
+- youtube [(Russian)](https://www.youtube.com/watch?v=TyJ50i95xCM)
+- Savvateeev; mathematics
+
 ### Ted talks
 
 Rosling, H. (2006) ["The Best Stats You've Ever Seen"](https://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen)

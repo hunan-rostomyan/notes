@@ -56,6 +56,9 @@ Chomsky, N. (1957) *Syntactic Structures*.
 Dasgupta, S., Papadimitriou, C., Vazirani U. (2006) *Algorithms*.
 - algorithms
 
+Dieudonne, J.A. (1969) *Linear Algebra and Geometry*.
+- linear algebra; geometry; mathematics
+
 Dewdney, A. (1989) *The New Turing Omnibus*.
 - computer science; algorithms
 

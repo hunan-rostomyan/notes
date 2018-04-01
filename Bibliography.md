@@ -310,6 +310,9 @@ Lidovski, V.V. (2004) *Theory of Information*.
 Lipski, V. (1988) *Combinatorics for Programmers*.
 - combinatorics; discrete mathematics; mathematics
 
+Raigorodski, A. (2008) *Probability and Algebra in Combinatorics*.
+- algebra; combinatorics; probability; mathematics
+
 Shen, A. (2000) *Mathematics problems: offered to students of school no. 57*.
 - mathematics; problems
 

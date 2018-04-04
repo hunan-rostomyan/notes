@@ -1,6 +1,9 @@
 Albert, D.Z. (1992) *Quantum Mechanics and Experience*.
 - quantum mechanics; philosophy of quantum mechanics; philosophy of physics; philosophy of science
 
+Alpaydin, E. (2014) *Introduction To Machine Learning*, 3rd Ed.
+- machine learning
+
 Ash, A., Gross, R. (2006) *Fearless Symmetry: Exposing the Hidden Patterns of Numbers*.
 - abstract algebra; algebra; group theory; number theory; mathematics
 

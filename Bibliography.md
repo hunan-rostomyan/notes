@@ -59,6 +59,9 @@ Chomsky, N. (1957) *Syntactic Structures*.
 Dasgupta, S., Papadimitriou, C., Vazirani U. (2006) *Algorithms*.
 - algorithms
 
+Dashnow, H., Nunez-Iglesias, J., and van der Walt, S. (2017) *Elegant SciPy: The Art of Scientific Python*.
+- scipy; python; programming; computer science; science
+
 Dieudonne, J.A. (1969) *Linear Algebra and Geometry*.
 - linear algebra; geometry; mathematics
 

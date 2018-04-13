@@ -42,6 +42,11 @@
 
 - "A lot of machine learning is just a rediscovery of things that statisticians already knew. This is often disguised by differences in terminology. [...] But the emphasis is very different: a good piece of statistics is a clever proof that a relatively simple estimation procedure is asymptotically unbiased, while a good piece of machine learning is a demonstration that a complicated algorithm produces impressive results on a specific task." (paraphrazing, Intro to ML, Lecture 1, slide 9)
 
+### MacCartney, Bill
+
+- "Sometimes, the best way to understand something is to build a model of it."
+  - understanding; experimentation; modeling
+
 ### Maslow
 
 - "I suppose it is tempting, if the only tool you have is a hammer, to treat everything as if it were a nail."

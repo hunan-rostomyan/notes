@@ -52,6 +52,12 @@
 - "I suppose it is tempting, if the only tool you have is a hammer, to treat everything as if it were a nail."
   - problem solving; law of the instrument
 
+### Saroyan
+
+- "In the time of your life, live—so that in that good time there shall be no ugliness or death for yourself or for any life your life touches. Seek goodness everywhere, and when it is found, bring it out of its hiding-place and let it be free and unashamed. Place in matter and in flesh the least of the values, for these are the things that hold death and must pass away. Discover in all things that which shines and is beyond corruption. Encourage virtue in whatever heart it may have been driven into secrecy and sorrow by the shame and terror of the world. Ignore the obvious, for it is unworthy of the clear eye and the kindly heart. Be the inferior of no man, nor of any man be the superior. Remember that every man is a variation of yourself. No man’s guilt is not yours, nor is any man’s innocence a thing apart. Despise evil and ungodliness, but not men of ungodliness or evil. These, understand. Have no shame in being kindly and gentle, but if the time comes in the time of your life to kill, kill and have no regret. In the time of your life, live—so that in that wondrous time you shall not add to the misery and sorrow of the world, but shall smile to the infinite delight and mystery of it."
+  - life; wisdom; inspiration
+  - Preface to his play, *The Time of Your Life* (1939)
+
 ### Savvateev, A.
 
 - "That you've got questions is already good. It happens that you neither understand something nor can ask questions about what you don't understand. Sometimes you don't understand something but it's clear what you don't understand. This latter sort of stage is 90% of understanding. Because if you can formulate what you don't understand then I'll immediately explain."

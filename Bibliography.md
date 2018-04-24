@@ -38,6 +38,9 @@ Bertsekas, D. P. (2015) *Convex Optimization Algorithms*
 Bona, M. (2006) *A Walk Through Combinatorics. An Introduction to Enumeration and Graph Theory*, 2nd Edition.
 - combinatorics; graph theory; mathematics
 
+Bradbury, R. (1990) *Zen in the Art of Writing*.
+- writing; advice
+
 Cardelli, L. (1983) "The Functional Abstract Machine".
 - FAM; virtual machines; functional programming languages; functional programming language implementations
 

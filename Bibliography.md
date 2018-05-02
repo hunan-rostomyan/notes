@@ -170,6 +170,9 @@ Kubler, S., McDonald, R., Nivre, J. (2009) *Dependency Parsing*.
 Kulkarni, S., Harman, G. (2011) *An Elementary Introduction to Statistical Learning Theory*.
 - statistical learning theory; machine learning
 
+Le Guin, U.K. (2016) *Words are My Matter*.
+- essays; reviews; writing; literature
+
 Lewin, W. (2012) *For the Love of Physics: From the End of the Rainbow to the Edge of Time - A Journey Through the Wonders of Physics*.
 - physics; science; popular science
 

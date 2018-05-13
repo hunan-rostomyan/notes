@@ -14,7 +14,7 @@ Renz, P. (2009) *I Want to Be a Mathematician*.
 
 #### Lagrange
 
-(2013?) *Lagrange*
+(2014) *Lagrange*
 - youtube [(French; has subtitles)](https://www.youtube.com/watch?v=K_tAygfZnAE)
 - Lagrange; mathematics
 

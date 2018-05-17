@@ -287,6 +287,9 @@ Wasserman, L. (2005) *All of Nonparametric Statistics*.
 Woolf, V. (1929) *A Room of One's Own*.
 - essay; literature; life
 
+Yaglom, I.M. (2009) *Geometries, Groups and Algebras in the Nineteenth Century - A History*
+- history of geometry; history of algebra; history of mathematics; mathematics
+
 Young, G.A., Smith, R.L. (2005) *Essentials of Statistical Inference*.
 - statistical inference; statistics; mathematics
 

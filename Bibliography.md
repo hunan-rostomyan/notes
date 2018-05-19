@@ -272,6 +272,9 @@ Stewart, I. (1995) *Concepts of Modern Mathematics*.
 Stewart, I. (2006) *Letters to a Young Mathematician*.
 - popular mathematics; career advice
 
+Strang, G. (2009) *Linear Algebra and Its Applications*, 4th edition.
+- linear algebra; mathematics
+
 Tao, T. (2006) *Analysis I-II*.
 - mathematical analysis; calculus; mathematics
 

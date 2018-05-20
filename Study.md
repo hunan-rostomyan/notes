@@ -17,6 +17,12 @@ stories of imperfect people trying to make sense of nature.
 
 # Linear Algebra
 
+Cherney et al. [Linear Algebra](https://www.math.ucdavis.edu/~linear/)
+- tags: linear algebra
+
+Hefferon [Linear Algebra](http://joshua.smcvt.edu/linearalgebra/)
+- tags: linear algebra
+
 Strang (2009) *Linear Algebra*
 - tags: linear algebra
 - notes:
@@ -24,14 +30,11 @@ Strang (2009) *Linear Algebra*
 - opinion: seems to have lots of examples
 
 
+
 # Statistics
 
 [OpenIntro 3](https://www.openintro.org/stat/textbook.php?stat_book=os)
 - tags: statistics
-- notes:
-  - free
 
 [OpenStax - Introductory Statistics](https://cnx.org/contents/MBiUQmmY@19.1:kcV4GRqc@13/Preface)
 - tags: statistics
-- notes:
-  - free

@@ -22,3 +22,16 @@ Strang (2009) *Linear Algebra*
 - notes:
   - has an associated course: [MIT 18.06](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
 - opinion: seems to have lots of examples
+
+
+# Statistics
+
+[OpenIntro 3](https://www.openintro.org/stat/textbook.php?stat_book=os)
+- tags: statistics
+- notes:
+  - free
+
+[OpenStax - Introductory Statistics](https://cnx.org/contents/MBiUQmmY@19.1:kcV4GRqc@13/Preface)
+- tags: statistics
+- notes:
+  - free

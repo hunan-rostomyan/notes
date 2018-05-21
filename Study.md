@@ -3,6 +3,12 @@ A list of resources for studying various things. Mostly in English and Russian.
 *Note.* I've kept the references simple; for the details, consult the [Bibliography](https://github.com/hunan-rostomyan/notes/blob/master/Bibliography.md).
 
 
+# Group theory
+
+Alexandroff, P. (2012) *An Introduction to the Theory of Groups*
+- tags: group theory; algebra
+
+
 
 # History of Mathematics
 

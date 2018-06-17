@@ -230,6 +230,9 @@ Paulos, J.A. (1991) *Beyond Numeracy: Ruminations of a Numbers Man*.
 Paulson, L.C. (1996) *ML for the Working Programmer*, 2nd edition.
 - ml; functional programming; programming
 
+Pearson, K. (1892) *The Grammar of Science*.
+- science; philosophy of science; statistics
+
 Peyton Jones, S. (1987) *The Implementation of Functional Programming Languages*.
 - functional programming; functional programming language implementation
 

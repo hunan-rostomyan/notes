@@ -56,9 +56,9 @@ A list of resources for studying various things. Mostly in English and Russian. 
 
 - Resnik, Resnik (2016) Elementary Introduction to Statistics (Russian)
 - Lagutin (2009) Visual Mathematical Statistics, 2nd Ed (Russian)
+- Thurstone (1925) [The Fundamentals Of Statistics](https://archive.org/details/in.ernet.dli.2015.262413)
 - [OpenIntro 3](https://www.openintro.org/stat/textbook.php?stat_book=os)
 - [OpenStax - Introductory Statistics](https://cnx.org/contents/MBiUQmmY@19.1:kcV4GRqc@13/Preface)
-
 
 
 ## Statistics, Non-Parametric

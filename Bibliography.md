@@ -98,7 +98,10 @@ Feller, W. (1950) *An introduction to probability theory and its applications*.
 Fejer, P.A., Simovici, D.A. (1990) *Mathematical foundations of computer science. Volume 1: sets, relations, and induction*.
 - induction; mathematics; computer science
 
-Fisher, R. (1935) *The Design of Experiments*
+Fisher, R. (1925) *Statistical Methods for Research Workers*.
+- statistics
+
+Fisher, R. (1935) *The Design of Experiments*.
 - design of experiments; statistics
 
 Friedman, J.H., Tibshirani, R., Hastie, T. (2001) *The Elements of Statistical Learning*.

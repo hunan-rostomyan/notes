@@ -53,7 +53,12 @@ A list of resources for studying various things. Mostly in English and Russian. 
 
 - Gass *An Illustrated Guide to Linear Programming*
 
+## Machine Learning
 
+- Raschka (Draft) [Introduction to Artificial Neural Networks and Deep Learning](https://sebastianraschka.com/books.html#introduction-to-artificial-neural-networks-and-deep-learning-a-practical-guide-with-applications-in-python)
+  - appendices covering mathematical (and other) background
+
+- Raschka (Stat 479, Fall 2018) [Machine Learning](http://pages.stat.wisc.edu/~sraschka/teaching/stat479-fs2018/)
 
 ## Statistics
 

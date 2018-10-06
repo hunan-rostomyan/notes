@@ -44,6 +44,9 @@ A list of resources for studying various things. Mostly in English and Russian. 
   It's especially good in its treatment of computational topics. A good place to find
   out about calculating matrix indices and engenvalues." (Jordan, M.)
 
+## Linear Algebra, Computational/Numerical
+
+- fast.ai - [Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra)
 
 
 ## Linear Programming

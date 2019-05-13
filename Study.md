@@ -60,6 +60,31 @@ A list of resources for studying various things. Mostly in English and Russian. 
 
 - Raschka (Stat 479, Fall 2018) [Machine Learning](http://pages.stat.wisc.edu/~sraschka/teaching/stat479-fs2018/)
 
+## Quantum Computing
+
+- Nielsen, Chuang - Quantum Computing and Quantum Information
+  - classic of the field
+
+
+## Quantum Machine Learning
+
+Lectures (introductory)
+- Lloyd (2014) [](https://www.youtube.com/watch?v=wkBPp9UovVU)
+  - similar but not the same as the Keio lecture, but assuming less QM knowledge
+- Schuld (2014) [An introduction to quantum machine learning](https://arxiv.org/abs/1409.3097)
+- Lloyd (2016) [Quantum Machine Learning](https://www.youtube.com/watch?v=Lbndu5EIWvI), Keio University
+  - good introduction and overview; focuses on FFT, eigenvalue/vector finding, and matrix inversion
+
+Papers
+- Adcock et al. (2015) [Advances in quantum machine learning](https://arxiv.org/abs/1512.02900)
+- Biamonte et al. (2016) [Quantum Machine Learning](https://arxiv.org/abs/1611.09347)
+
+Other
+- Bengio, Shor, others (2018) [Panel: What can Quantum do for AI?](https://www.youtube.com/watch?v=vfJuvNuSPKw), MIT-IBM Watson AI Lab
+
+Critical
+- Aaronson [Quantum Machine Learning Algorithms:  Read the Fine Print](https://scottaaronson.com/papers/qml.pdf)
+
 ## Statistics
 
 - Resnik, Resnik (2016) Elementary Introduction to Statistics (Russian)
